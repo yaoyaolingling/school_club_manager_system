@@ -5,7 +5,7 @@
         <div class="card-header">
           <span>公告管理</span>
         </div>
-      </template>
+      </template> 
 
       <div class="filter-container">
         <el-select v-model="currentClubId" placeholder="选择社团" @change="handleClubChange" style="width: 200px; margin-right: 10px;">
