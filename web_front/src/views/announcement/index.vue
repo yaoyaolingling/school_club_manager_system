@@ -3,7 +3,7 @@
     <el-card shadow="never">
       <template #header>
         <div class="card-header">
-          <span>公告管理 </span>
+          <span>公告管理</span>
         </div>
       </template>
 
