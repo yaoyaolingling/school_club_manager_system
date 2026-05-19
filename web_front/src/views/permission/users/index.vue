@@ -117,7 +117,7 @@ const form = reactive({
   role: ''
 })
 
-const roles = [  
+const roles = [ 
   { label: '社长', value: 'leader', level: 3 },
   { label: '管理员', value: 'advisor', level: 2 },
   { label: '普通成员', value: 'member', level: 1 }
