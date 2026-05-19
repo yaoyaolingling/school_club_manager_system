@@ -3,7 +3,7 @@
     <el-card>
       <template #header>
         <div class="card-header">
-          <span>入团申请审核</span>
+          <span>入团申请审核 </span>
           <el-select v-if="clubs.length > 1" v-model="currentClubId" placeholder="选择社团" @change="handleClubChange">
             <el-option
               v-for="item in clubs"
