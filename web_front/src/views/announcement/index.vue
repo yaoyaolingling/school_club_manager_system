@@ -4,7 +4,7 @@
       <template #header>
         <div class="card-header">
           <span>公告管理</span>
-        </div>
+        </div> 
       </template> 
 
       <div class="filter-container">
